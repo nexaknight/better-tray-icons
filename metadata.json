@@ -1,0 +1,9 @@
+{
+    "uuid": "better-tray-icons@nexaknight.com",
+    "name": "Better Tray Icons",
+    "description": "A GNOME Shell Extension for enhanced tray icon support.",
+    "shell-version": ["47", "48"],
+    "url": "https://github.com/RealEmreSen/Better-Tray-Icon",
+    "version": 1,
+    "version-name": "0.1.0"
+}
