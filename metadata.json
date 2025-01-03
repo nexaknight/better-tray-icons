@@ -1,9 +1,10 @@
 {
-    "uuid": "better-tray-icons@nexaknight.com",
+    "uuid": "better-tray-icons@github.nexaknight.com",
     "name": "Better Tray Icons",
     "description": "A GNOME Shell Extension for enhanced tray icon support.",
+    "url": "https://github.com/nexaknight/better-tray-icons/tree/init-development",
+    "gettext-domain": "better-tray-icons@nexaknight.github.io",
     "shell-version": ["47", "48"],
-    "url": "https://github.com/RealEmreSen/Better-Tray-Icon",
     "version": 1,
     "version-name": "0.1.0"
 }
